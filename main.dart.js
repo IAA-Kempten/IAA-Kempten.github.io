@@ -63999,7 +63999,7 @@ if(r)q.b.pop()
 return!0},
 $S:41}
 A.CB.prototype={
-L(a){return new A.tk(B.As,"Flutter Demo",A.a8p(null,A.ajn(B.t,B.DP),!0),!1,null)}}
+L(a){return new A.tk(B.As,"IAA Kempten",A.a8p(null,A.ajn(B.t,B.DP),!0),!1,null)}}
 A.C3.prototype={
 L(a){var s=null,r=A.amQ(s,s,new A.qc("assets/logo/indian_flag.jpg",s,s)),q=A.a([A.Fn(B.Ma,new A.Tn(a)),A.Fn(B.Mc,new A.To(a)),A.Fn(B.Me,new A.Tp(a)),A.Fn(B.Mg,new A.Tq(a)),A.Fn(B.Mf,new A.Tr(a)),B.H6],t.F)
 return new A.uC(new A.q7(new A.ni(r,s),B.Mb,q,20,B.yK,new A.Jy(s,s,1/0,56),s),B.xN,s)}}
